@@ -1,1 +1,1 @@
-https://www.electronjs.org/docs/latest/
+https://meyerweb.com/eric/tools/css/reset/
